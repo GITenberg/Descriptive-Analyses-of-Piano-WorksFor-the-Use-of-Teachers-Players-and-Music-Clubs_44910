@@ -1,0 +1,29 @@
+_repo: Descriptive-Analyses-of-Piano-WorksFor-the-Use-of-Teachers-Players-and-Music-Clubs_44910
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44910-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Perry, Edward Baxter
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '42983'
+    url: http://www.gutenberg.org/2009/agents/42983
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44910'
+  lccn: '02024501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piano music -- Analysis, appreciation'
+- !lcc 'MT'
+title: 'Descriptive Analyses of Piano Works
+
+  For the Use of Teachers, Players, and Music Clubs'
+url: http://www.gutenberg.org/ebooks/44910
